@@ -3,7 +3,27 @@
 ## Project Overview
 This repository contains a comprehensive analysis of global metrics in international policymaking, utilizing the world-data2023.csv dataset. The exploration delves into the intricate relationships between various economic, demographic, and sociocultural indicators, revealing the stories behind the numbers that shape our understanding of global dynamics.
 
-Dataset Description
+## Files in this repository
+1. Raw Dataset:
+File Name: world-data2023_raw.csv
+This file contains the unedited version of the dataset used for your analysis.
+
+3. Cleaned Dataset:
+File Name: world-data2023_cleaned.csv
+This file includes the cleaned dataset, which features:
+A summary of descriptive statistics.
+A sheet dedicated to data exploration.
+A sheet which was used to create Visualizations using pivot tables.
+
+5. Assignment Document:
+File Name: analysis_report.docx or analysis_report.pdf
+This document contains:
+Screenshots of the dataset.
+Detailed explanations of how the analysis was conducted using Excel.
+Interpretations of visualizations and results.
+This report was submitted for assessment and received a grade of 68.
+
+## Dataset Description
 The world-data2023.csv dataset encompasses a variety of global metrics, with Country as a unique identifier for observations. Key variables include:
 - Economic Indicators:
    - GDP (Gross Domestic Product)
@@ -22,13 +42,13 @@ The world-data2023.csv dataset encompasses a variety of global metrics, with Cou
    - Infant Mortality
    - Birth and Fertility Rate
    - Gross Primary and Tertiary Education Enrollment
-   - 
+     
 - Sociocultural Metrics:
    - Official Language
      
 - Environmental Factors:
    - CO2 Emissions
-   - 
+    
 The primary focus of this analysis is on GDP, population density, life expectancy, and minimum wage as they significantly influence immigration policies and decision-making in international contexts.
 
 ## Data Cleaning Process
