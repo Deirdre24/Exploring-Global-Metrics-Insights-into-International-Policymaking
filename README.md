@@ -5,18 +5,18 @@ This repository contains a comprehensive analysis of global metrics in internati
 
 ## Files in this repository
 1. Raw Dataset:
-File Name: world-data2023_raw.csv
-This file contains the unedited version of the dataset used for your analysis.
+File Name: unedited world-data2023_raw.csv
+This file contains the unedited version of the dataset used for the analysis.
 
 3. Cleaned Dataset:
-File Name: world-data2023_cleaned.csv
+File Name: world-data2023 2_cleaned.csv
 This file includes the cleaned dataset, which features:
 A summary of descriptive statistics.
 A sheet dedicated to data exploration.
 A sheet which was used to create Visualizations using pivot tables.
 
 5. Assignment Document:
-File Name: analysis_report.docx or analysis_report.pdf
+File Name: analysis_report.docx (with student credentials)
 This document contains:
 Screenshots of the dataset.
 Detailed explanations of how the analysis was conducted using Excel.
